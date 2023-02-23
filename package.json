@@ -27,7 +27,7 @@
         "google-auth-library": "^7.1.0",
         "jsonwebtoken": "^8.5.1",
         "pg": "^8.6.0",
-        "sequelize": "^6.6.2",
+        "sequelize": "^6.28.2",
         "socket.io": "^2.4.1",
         "ytsearcher": "^1.2.4"
     },
